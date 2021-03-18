@@ -1,0 +1,137 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container{
+    width: 970px;
+}
+.header{
+    height: 48px;
+    width: 100%;
+    background-color: #F8F8F8;
+}
+
+.header p{
+    padding: 10px 10px 10px 10px;
+    margin: 0 0 0 0;
+    display: block;
+}
+
+.name {
+    float: left;
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.summary{
+    float: right;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.main_content {
+    height: 858px;
+    width: 940;
+    background: linear-gradient(to right, #1D0D11 , #6F5964, #1D0D11);
+    padding: 20px 5px 5px 25px;
+}
+
+.photo{
+    display: inline-block;
+    border: 5px solid silver;
+    margin: 10px 15px 10px 0;
+
+}
+
+.img380{
+    width: 380px;
+}
+
+.about{
+    width: 500px;
+    height: 260px;
+    display: inline-block;
+    vertical-align: top;
+    background: linear-gradient(to right, white , #6F5964);
+    margin: 10px 15px 10px 0;
+}
+
+.box{
+    display: inline-block;
+    vertical-align: top;
+    background: linear-gradient(to right, white , #6F5964);
+    margin: 10px 15px 10px 0;
+    width: 290px;
+    height: 555px;
+}
+
+.category{
+    color: white;
+    font-weight: bold;
+    background: linear-gradient(180deg, darkgray, gray, darkgray);
+    padding: 10px 10px 10px 10px ;
+}
+
+.fs14{
+    font-size: 14px;
+    display: block;
+    padding: 10px 10px 10px 10px;
+    margin: 0 0 0 0;
+}
+
+a {
+    color: black;
+}
+
+.img290 {
+    width: 290px;
+}
+
+p{
+    font-size: 12px;
+    padding: 10px 10px 10px 10px;
+    margin: 0 0 0 0;
+}
+
+.description {
+    height: 150px;
+}
+
+.img40{
+    width: 40px;
+    padding: 5px;
+}
+
+.button {
+    background-color: #407D61;
+    box-shadow: 2px 2px 5px black;
+    border-radius: 5px;
+    padding: 5px;
+    width: 110px;
+    margin: 5px 0 0 90px;
+    text-align: center;
+}
+
+.label {
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+.footer {
+    font-size: 12px;
+    text-align: center;
+}
+
+.img20 {
+    width: 20px;
+}
+
+.link {
+    height: 20px;
+    vertical-align: top;
+    display: inline-block;
+}
