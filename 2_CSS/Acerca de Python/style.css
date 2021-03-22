@@ -1,0 +1,7 @@
+.container{
+    width: 970px;
+    height: 900px;
+    background-color: #245076;
+    padding: 15px;
+    outline: 1 px dotted red;
+}
