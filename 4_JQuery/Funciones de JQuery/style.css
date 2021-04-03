@@ -1,0 +1,16 @@
+div{
+    width: 970px;
+    background-color: aqua;
+}
+
+.slidedown h2{
+    display: none;
+}
+
+.fadein h2{
+    display: none;
+}
+
+.highlight {
+    background: yellow;
+}
